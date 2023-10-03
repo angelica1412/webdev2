@@ -70,7 +70,7 @@ function App() {
       </div>
 
       <div className="center">
-          <button onClick={toggleCircular}>Toggle Lingkaran</button>
+          <button onClick={toggleCircular}>Ubah Ukuran Foto</button>
         </div>
 
     </div>
